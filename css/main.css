@@ -38,17 +38,16 @@ p {
 
 a {
   text-decoration: none;
-  color: #3f1622;
+  color: #8f2440;
 }
 
 ol a {
   font-family: "PT Sans", sans-serif;
   list-style-type: none;
   font-size: 1em;
-  line-height: 1.5;
 }
 
 a:hover {
   color: #3f1622;
-  text-decoration: none;
+  text-decoration: underline;
 }
